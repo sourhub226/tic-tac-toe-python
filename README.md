@@ -1,3 +1,3 @@
 # Tic Tac Toe 
 
-Game made in python using Tkinter module
+Game made in python using `Tkinter` module
